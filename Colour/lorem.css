@@ -1,6 +1,11 @@
 div{
     background-color: brown;
     margin: 20px;
-    padding: 30px;
+    padding: 40px;
     border-top-left-radius: 30px;
+}
+img{
+    size: 200px;
+    padding: 40px;
+    overflow: hidden;
 }
